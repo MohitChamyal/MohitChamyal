@@ -46,10 +46,11 @@
 
 | # | Project | Tech Stack | Description | Links |
 |---|---------|------------|-------------|--------|
-| 1 | **Handwritten Digit Recognition** | Python, ML | Deep Learning model trained on MNIST dataset | 🔗 [Repo](https://github.com/MohitChamyal/Hand-Written-Digit-Recognition) |
-| 2 | **Track Crypto** | JavaScript | Real-time cryptocurrency price tracker using API | 🔗 [Repo](https://github.com/MohitChamyal/Track-Crypto) |
-| 3 | **Leet-Com** | JavaScript, CSS | Interactive platform for practicing coding problems | 🔗 [Repo](https://github.com/MohitChamyal/Leet-Com) |
-| 4 | **Breast Cancer Detection** | Python, ML | Machine learning model for breast cancer classification | 🔗 [Repo](https://github.com/MohitChamyal/Breast-Cancer-Detection) |
+| 1 | **Auto Deploy Hub** | Node.js, Docker, CI/CD | Automated deployment system for containerized applications | 🔗 [Repo](https://github.com/MohitChamyal/Auto-Deploy-Hub) |
+| 2 | **Handwritten Digit Recognition** | Python, ML | Deep Learning model trained on MNIST dataset | 🔗 [Repo](https://github.com/MohitChamyal/Hand-Written-Digit-Recognition) |
+| 3 | **Track Crypto** | JavaScript | Real-time cryptocurrency price tracker using API | 🔗 [Repo](https://github.com/MohitChamyal/Track-Crypto) |
+| 4 | **Leet-Com** | JavaScript, CSS | Interactive platform for practicing coding problems | 🔗 [Repo](https://github.com/MohitChamyal/Leet-Com) |
+| 5 | **Breast Cancer Detection** | Python, ML | Machine learning model for breast cancer classification | 🔗 [Repo](https://github.com/MohitChamyal/Breast-Cancer-Detection) |
 
 </p>
 
@@ -66,7 +67,7 @@
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
 
-  <a href="https://leetcode.com/u/ChamyalMohit/c" target="_blank">
+  <a href="https://leetcode.com/u/ChamyalMohit/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>&nbsp;&nbsp;
 
